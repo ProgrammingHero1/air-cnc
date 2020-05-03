@@ -6,3 +6,7 @@
 4. We expect you to develop the main page
 5. Create an integration with google map
 6. allow user to filter result. 
+7. payment integration
+8. login
+9. listing detail
+10. checkout
